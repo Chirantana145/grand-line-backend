@@ -1,0 +1,5 @@
+node_modules/
+.env
+grand-line-tcg-firebase-adminsdk-*.json
+*.log
+.DS_Store
